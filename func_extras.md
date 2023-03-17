@@ -1,6 +1,7 @@
 ❗ Funcionalidades Extras
 ===
 *Recursos extras do App de Status*
+
 <br>
 
 ### Print Screen
