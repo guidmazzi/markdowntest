@@ -9,7 +9,7 @@ Primeiro, os estados são diferentes baseados no serviço selecionado (telemetri
 
 > ⚠️: No caso do serviço telemetria, bateria baixa🟠 e sinal baixo🟣 não serão apresentados, pois não existem essas informações para este serviço.
 
-![](/imgs/status-qntd.jpg "Text to show on mouseover")
+![](/imgs/status-qntd.jpg "Quantidade de equipamentos em cada estado.")
 
 >**Alarme**🔴 (vermelho) - Quantidade de equipamentos em estado "alarme";
 >**Alerta**🟡(amarelo) - Quantidade de equipamentos em estado "alerta";
@@ -21,6 +21,7 @@ O estado de bateria baixa🟠 é identificado quando o dispositivo está com men
 
 <br>
 
+### [👋Início](README.md)
 
 ### [📊Gráfico Tree Map](grafico_treemap.md)
 
