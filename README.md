@@ -1,6 +1,7 @@
 👋 Bem vindo ao App de Status - Portal SEMEQ
 ===
 *Utilização, acesso e funcionamento da tela de Status do Portal SEMEQ*
+
 <br>
 
 ### Overview
@@ -28,12 +29,14 @@ Essa documentação tem como objetivo identificar o acesso a tela de Status, e c
 ### [🔨Funcionamento](status_equipamento.md)
 
 ### [🖥️Para Desenvolvedores](for_devs.md)
+
 <br>
 
 ---
 🚀 Como acessar
 ===
 *Informações de como acessar a tela de Status*
+
 <br>
 
 ### Entrar com login
@@ -53,12 +56,14 @@ Após seu login, a tela abaixo será exibida:
 Com seu usuário autenticado, o seguinte menu será exibido. Para acessar a tela de Status, clique em análise, localizado no menu do centro da tela, ou no cabeçalho acima da tela, indicados por setas no exemplo abaixo:
 
 ![Tela de login](/imgs/menu-sublinhado.jpg "Tela de Login")
+
 <br>
 
 ---
 💡 Como apresentar as análises
 ===
 *O que a tela apresenta e como exibir*
+
 <br>
 
 ### Como apresentar os dados
