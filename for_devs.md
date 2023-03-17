@@ -8,22 +8,22 @@
 O código é escrito em Django. Por isso, tem a seguinte estrutura:<br>
 Pasta *__monitoring__* representa o App como um todo. Tudo da página (exceto arquivos estáticos) estão aqui.
 
-![](/imgs/cod-pasta.jpg "Text to show on mouseover")
+![](/imgs/cod-pasta.jpg "Arquivos dentro da pasta do App enumerados.")
 
 1. __migrations:__ Migrações dos modelos criados em ```models.py``` para o banco de dados. <br>
-    ![](/imgs/migrations.jpg "Text to show on mouseover")<br>
+    ![](/imgs/migrations.jpg "Arquivos dentro de migrations")<br>
     - ```0001_initial .py```**:** Migração dos modelos para o banco de dados. Caso houvessem mais migrações, os números iniciais do nome do arquivo seriam outros.
 
 <br>
 
 2. __templates:__ Arquivos ```HTML``` do App são guardados aqui.<br>
-![](/imgs/templates.jpg "Text to show on mouseover")<br>
+![](/imgs/templates.jpg "Arquivos dentro de templates")<br>
     - ```monitor.html```**:** Cada arquivo ```HTML``` para cada função da página.
 
 <br>
 
 3. __tests:__ Arquivos para fazer os testes do App.<br>
-![](/imgs/tests.jpg "Text to show on mouseover")<br>
+![](/imgs/tests.jpg "Arquivos dentro de tests")<br>
     - ```test.py```**:** Arquivos que começam com "*__test__*" indicam um arquivo de teste em ```Python```.
 
 <br>
