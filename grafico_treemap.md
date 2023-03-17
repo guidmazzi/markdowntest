@@ -5,7 +5,7 @@
 <br>
 
 ### Como funciona
-O gráfico é separado em um agrupamento de seções: **Planta** -> **Área** -> **Setor** -> **Máquina** -> **Equipamento**. A **planta** é o local onde os **equipamentos** estão situados ([selecionado anteriormente](README.md)), fazendo parte de uma corporação. Nome da **planta** é definido pela localização. Tudo estará dentro desta seção, e é identificada no topo do gráfico em preto.
+O gráfico é separado em um agrupamento de seções: **Planta** -> **Área** -> **Setor** -> **Máquina** -> **Equipamento**. A **planta** é o local onde os **equipamentos** estão situados ([selecionado anteriormente](acesso.md)), fazendo parte de uma corporação. Nome da **planta** é definido pela localização. Tudo estará dentro desta seção, e é identificada no topo do gráfico em preto.
 
 > Dica: Para expandir o bloco, basta clicar no nome ao topo da seção. Para retrair o bloco, clique na seção desejada no topo do gráfico ou novamente no nome. Exemplo abaixo.
 >
