@@ -9,7 +9,7 @@ O gráfico é separado em um agrupamento de seções: **Planta** -> **Área** ->
 
 > Dica: Para expandir o bloco, basta clicar no nome ao topo da seção. Para retrair o bloco, clique na seção desejada no topo do gráfico ou novamente no nome. Exemplo abaixo.
 >
->![](/imgs/gifs/expandind-blocks.gif "Text to show on mouseover")
+>![](/imgs/gifs/expandind-blocks.gif "Expandindo os blocos e depois retornando à planta.")
 
 As **áreas**, então, são apresentadas como blocos no interior da **planta**, onde dentro das **áreas**, são agrupados os **setores**.
 
@@ -38,6 +38,8 @@ A partir desses dados, o analista pode decidir as prioridades de onde serão as 
 <br>
 
 ---
+
+### [👋Início](README.md)
 
 ### [🔨Status do Equipamento](status_equipamento.md)
 
