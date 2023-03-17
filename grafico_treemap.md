@@ -1,6 +1,7 @@
 📊 Gráfico Tree Map
 ===
 *Agrupamento de equipamentos da planta e seus respectivos estados.*
+
 <br>
 
 ### Como funciona
@@ -34,6 +35,7 @@ O mesmo se aplica para os outros blocos. O **setor** se colore baseado na média
 
 A partir desses dados, o analista pode decidir as prioridades de onde serão as próximas análises.
 
+<br>
 
 ---
 
