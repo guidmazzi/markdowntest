@@ -20,7 +20,8 @@ Essa documentação tem como objetivo identificar o acesso a tela de Status, e c
 >- ```Git``` - [git-scm.com/doc](https://git-scm.com/doc)  
 
 > **DICA:** Recomendado ler em Inglês
-> <br/>
+
+> <br>
 
 ### [🚀Informações de Acesso](#entrar-com-login) 
 
