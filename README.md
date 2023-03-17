@@ -15,8 +15,8 @@ Essa documentação tem como objetivo identificar o acesso a tela de Status, e c
 >```- Pandas 1.5.1``` - [pandas.pydata.org/docs/index.html](https://pandas.pydata.org/docs/index.html)  
 >```- Numpy 1.23.4``` - [numpy.org/doc/1.23/](https://numpy.org/doc/1.23/)  
 >```- MongoDB 5.0.15``` Enterprise - [www.mongodb.com/docs/v5.0/](https://www.mongodb.com/docs/v5.0/)  
->```- Docker 8.7.4``` -  
->```- PostgreSQL 8.7.4``` -  
+>```- Docker``` -  [docs.docker.com](https://docs.docker.com)
+>```- PostgreSQL``` -  [postgresql.org/docs/current/](https://www.postgresql.org/docs/current/)
 >```- Git``` - [git-scm.com/doc](https://git-scm.com/doc)  
 
 > **DICA:** Recomendado ler em Inglês
