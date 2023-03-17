@@ -27,7 +27,7 @@ Essa documentação tem como objetivo identificar o acesso a tela de Status, e c
 ### [🔨Funcionamento](status_equipamento.md)
 
 ### [🖥️Para Desenvolvedores](for_devs.md)
-<br>
+<br\>
 
 ---
 🚀 Como acessar
