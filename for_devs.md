@@ -1,4 +1,4 @@
-🖥️ For Developers
+🖥️ Para Desenvolvedores
 ===
 
 <br>
