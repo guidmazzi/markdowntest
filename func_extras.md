@@ -40,6 +40,7 @@ Uma caixa de pesquisa também é disponibilizada acima da tabela. Qualquer infor
 
 ![](/imgs/gifs/search-table.gif "Text to show on mouseover")
 
+<br>
 
 ---
 
