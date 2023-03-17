@@ -1,6 +1,7 @@
 🔨 Status do Equipamento
 ===
 *Dados do estado dos equipamentos*
+
 <br>
 
 ### Como funciona
@@ -17,6 +18,7 @@ Primeiro, os estados são diferentes baseados no serviço selecionado (telemetri
 
 Para o equipamento ser definido como "parado", o sensor não deve emitir sinal nas últimas 24h.
 O estado de bateria baixa🟠 é identificado quando o dispositivo está com menos de 40% de bateria. Para sinal baixo🟣, o dispositivo precisa ter um nível de sinal inferior a 10%.
+
 <br>
 
 
