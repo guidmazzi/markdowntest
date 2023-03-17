@@ -1,6 +1,7 @@
 📅 Tabela Grid
 ===
 *Descrição da tabela e dos dados apresentados*
+
 <br>
 
 ### Como funciona
@@ -48,6 +49,7 @@ Uma descrição de cada coluna apresentada na tabela:
 Na última coluna do grid, um ícone é exibido em cada equipamento. Ao clicar nesse botão, voce será redirecionado para a página de análise do equipamento selecionado (tela de "Analisador"), conforme o exemplo a seguir: 
 
 ![](/imgs/gifs/analisador.gif "Text to show on mouseover")
+
 <br>
 
 ---
